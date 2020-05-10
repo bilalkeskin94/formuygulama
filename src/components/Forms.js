@@ -70,7 +70,7 @@ class Forms extends Component {
           validateOnChange={false}
           onSubmit={(values, { resetForm }) => {
             console.log(values);
-            resetForm({});
+            resetForm({}, alert("silindi"));
           }}
         >
           {({
