@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/formik.iml" filepath="$PROJECT_DIR$/.idea/formik.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/formUygulama.iml" filepath="$PROJECT_DIR$/.idea/formUygulama.iml" />
     </modules>
   </component>
 </project>
